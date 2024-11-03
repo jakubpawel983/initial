@@ -7,4 +7,4 @@ Represent,Protect,Explore,Welcome
 time 90
 technology 90
 opportunity 100
-need 23|36|83
+need 36|83
