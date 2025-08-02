@@ -4,7 +4,7 @@ Earthians - people living on Planet Earth. An inteligent form of life.
 
 Represent,Protect,Explore,Welcome
 
-time 90
-technology 90
+time 96
+technology 11
 opportunity 100
-need 36|83
+need 45|75
