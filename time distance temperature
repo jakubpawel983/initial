@@ -11,8 +11,8 @@ distance on clock may be semantic
 distance time
 sun earth year 
 60 x 60 x 24 x 356
-1200 x (12 + 12) x 356
-12 + 12 + 12 = 36
+2400 x 12 = 86400
+86400/36 = 2400
 
 @ the clock is an invention meter to year
 
