@@ -2,6 +2,8 @@
 
 Earthians - people living on Planet Earth. An inteligent form of life.
 
+At the Sun rise it is most important to welcome day in a humble way.
+
 Represent,Protect,Explore,Welcome
 
 time 96
