@@ -25,12 +25,26 @@ Greek is similar to Cyrilica
 1 minute = 3 degrees
 1 degree = 20 seconds
 
+15 degrees on clock relate to 12H
+
 
 36.6 = 12.2 minutes 00:12 
 maybe direction after life 7:04:59
 
 ======================================
 
-Point on Earth rotates 360 degree in 24H
+Point on Earth rotates 360 degree in front of Sun in 24H
+
 15 degrees per hour
 4 minutes per degree
+
+
+======================================
+
+solar   clock
+x/240 = y/20
+x/24 = y/2
+x/12 = y
+
+x/y = 12
+
